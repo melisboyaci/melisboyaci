@@ -5,9 +5,6 @@
 I'm a passionate Developer based in Turkey, dedicated to building intuitive mobile applications and immersive games. I love turning complex problems into clean, beautiful code using both the Apple ecosystem and Unity engine.
 
 * 🔭 I’m currently working on **Personal Finance Apps & Mobile Games**
-* 🌱 I’m currently learning **Advanced Animations & Combine Framework**
-* ⚡ Fun fact: I love pastel colors and pixel-perfect designs!
-
 ---
 
 ### 🛠 Tech Stack
